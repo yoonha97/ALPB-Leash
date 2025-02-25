@@ -1,0 +1,4 @@
+## 250225 TIL
+
+- SQL 쿼리문을 오랜만에 복습함
+- CONCAT, COALESCE, OFFSET, PARTITION 등
