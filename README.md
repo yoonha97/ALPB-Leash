@@ -7,4 +7,5 @@
 ### 프로젝트 레포 링크
 
 1. 첫번째 개인 프로젝트(25.03.06 ~ 25.03.12)
-   [GIGA_LCK](https://github.com/yoonha97/GIGA_LCK)
+
+   ### [GIGA_LCK](https://github.com/yoonha97/GIGA_LCK)
