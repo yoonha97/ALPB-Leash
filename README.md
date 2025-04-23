@@ -6,6 +6,10 @@
 
 ### 프로젝트 레포 링크
 
-1. 첫번째 개인 프로젝트(25.03.06 ~ 25.03.12)
+1. 개인 프로젝트(25.03.06 ~ 25.03.12)
 
    ### [GIGA_LCK](https://github.com/yoonha97/GIGA_LCK)
+
+2. 팀 프로젝트(25.03.19 ~ 25.04.03) - FE 담당
+
+   ### [daengdaenglog](https://github.com/kt-project-7/daengdaenglog-fe)
